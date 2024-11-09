@@ -18,8 +18,4 @@ contato.html: Página com informações de contato e formulário de mensagens.
 
 Tecnologias Utilizadas
 
-HTML5
-CSS3
-JavaScript
-Django
-SQL 
+HTML5 / / CSS3 / / JavaScript / / Django / / SQL 
